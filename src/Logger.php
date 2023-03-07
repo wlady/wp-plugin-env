@@ -3,8 +3,6 @@
 namespace Plugin\Env;
 
 
-use Plugin\Env\PluginInterface;
-
 class Logger {
 
 	private $plugin;

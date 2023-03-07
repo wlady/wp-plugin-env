@@ -2,6 +2,7 @@
 
 namespace Plugin\Env;
 
+
 class Checker {
 
 	private $plugin;
